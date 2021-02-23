@@ -9,5 +9,13 @@
 * item 1
 * item 2
 * item 3
-###### This is a heading 6
+
+
+#### This is some code on my page
+... python
+def hello_world():
+ print('Hello World')
+ ...
+ 
+
 
