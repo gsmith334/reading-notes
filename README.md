@@ -12,10 +12,10 @@
 
 
 #### This is some code on my page
-... python
+``` python
 def hello_world():
- print('Hello World')
- ...
+  print('Hello World')
+```
  
 
 
